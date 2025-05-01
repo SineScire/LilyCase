@@ -1,5 +1,7 @@
 A case for the lily58, originally created by [kata0510](https://github.com/kata0510) with a suspended switchplate, made to use with the Lily58L created by [BenRoe](https://github.com/BenRoe).
 
+![](https://github.com/SineScire/LilyCase/blob/67452ea44ff2f6d6c83ab36c8d1c95dc17c37ed3/Images/Angle%20view.jpg)
+
 ## Parts to assemble the case
 
 | Part | Quantity | Description | Photo |
@@ -31,8 +33,8 @@ A case for the lily58, originally created by [kata0510](https://github.com/kata0
 
 #### Preparing the switchplate
 * Parts needed: Switchplate, PCB, 5x m2x4 brass inserts, 5x washers, 5x m2x5mm Socket head screws, dampening foam.
-1. Place the switchplate down with the standoffs facing up and place the Lily58 PCB on top as show in the image, the PCB prevents excess deformation of the Switchplate when inerting the brass inserts and ensures a proper fit afterwards.
-2. Insert the 5 m2x4mm Brass Inserts into the hightlighted openings.
+1. Place the switchplate down with the standoffs facing up and place the Lily58 PCB on top as show in the image, the PCB prevents excess deformation of the Switchplate when inserting the brass inserts and ensures a proper fit afterwards.
+2. Insert the 5 m2x4mm Brass Inserts into the blue hightlighted openings.
 ![Switchplate](https://github.com/SineScire/LilyCase/blob/f742c73ddb7eaefbcd8f68132b50881ada31b136/Images/Insert%205x%20m2x4mm%20brass%20inserts%20into%20switchplate.jpg)
 3. Using the 5 washers and 5 m2x5mm Socket head screws, the switchplate can be mounted onto the PCB
 4. Apply the dampening foam to the areas highlighted in blue.
