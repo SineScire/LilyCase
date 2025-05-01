@@ -55,4 +55,5 @@ A case for the lily58, originally created by [kata0510](https://github.com/kata0
 
 #### Preparing the Bottom housing
 * Parts needed: Bottom housing, IO Brace, 3x m2x4mm brass inserts, 3x m2x5mm Socket head screws, 4x stick on feet.
-1. 
+1. Insert the 3 m2x4mm brass inserts in the openings show in the blue highlights in the image belowo
+![](https://github.com/SineScire/LilyCase/blob/c84eab74e7b79bf375c6481fb5333822dabd0113/Images/Insert%203x%20m2x4mm%20brass%20inserts%20into%20bottom%20housing.jpg)
