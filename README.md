@@ -23,13 +23,14 @@ A case for the lily58, originally created by [kata0510](https://github.com/kata0
 | Lily58 PCB | 1x |
 | Soldering Iron | 1x | To insert the brass inserts into the case parts |
 | Small metal object with a flat surface | 1x | Optional but useful, to align and straighten the brass insert after inserting it |
+| Tweezers to hold brass inserts | 1x |
 
 ## Assembly
 
 Required parts for this step: PCB, 5x m2x5mm Brass Inserts, Switchplate, soldering iron.
 Place the switchplate down with the standoffs facing up and place the Lily58 PCB on top as show in the image, the PCB prevents excess deformation of the Switchplate when inerting the brass inserts and ensures a proper fit afterwards.
 Insert the 5 Brass Inserts into the hightlighted openings.
-
+![Switchplate](img/Insert 5x m2x4mm brass inserts into switchplate.jpg)
 
 
 
