@@ -22,12 +22,13 @@ A case for the lily58, originally created by [kata0510](https://github.com/kata0
 | TRRS Breakout board | 1x | Mounts to the Bottom housing for IO access | ![](https://github.com/SineScire/LilyCase/blob/bd04925a0f7e573289788de1d8b8854aa9a3e55a/Images/USB-C%20and%20TRRS.jpg) |
 | Wire | 4x | To connect the TRRS plug and breakout board |
 | Shrinkwrap | 3x | To tidy the cables for the TRRS plug. |
-| 90° USB-C Flex Connector | 1x | Connects to the PCB |
+| 90° USB-C Flex Connector | 1x | Connects to the PCB | ![](https://github.com/SineScire/LilyCase/blob/a0095cbd26be3239dec1c03cc9cdd155c50838e4/Images/90degree%20USB-C.jpg)
 | USB-C Flex Connector | 1x | Mounts to the Bottom housing for IO access | See TRRS Breakout board |
 | Flex cable | 1x | Connects the two USB-C Boards |
 | Stick on feet | 4x |
 | Lily58 PCB | 1x |
 | Soldering Iron | 1x | To insert the brass inserts into the case parts |
+| Multimeter | 1x | To check the continuity for soldering the TRRS cable |
 | Small metal object with a flat surface | 1x | Optional but useful, to align and straighten the brass insert after inserting it |
 | Tweezers to hold brass inserts | 1x |
 
