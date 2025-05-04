@@ -42,6 +42,8 @@ A case for the lily58, originally created by [kata0510](https://github.com/kata0
 3. Using the 5 washers and 5 m2x5mm Socket head screws, the switchplate can be mounted onto the PCB.
 4. Apply the dampening foam to the areas highlighted in blue.
 ![](https://github.com/SineScire/LilyCase/blob/90f54d0df92699f66692af860c6c79015507a384/Images/Dampening%20foam%20spots.jpg)
+5. Assemble the PCB/Switchplate with the desired switches and keycaps, resulting in an assembly looking like this.
+![](https://github.com/SineScire/LilyCase/blob/9a0e8c2ce669bf5005cfb7baed4aae24dbb11a6b/Images/Assembled%20Switchplate.png)
 
 #### Soldering the TRRS cable and assembling the USB-C Flex cable
 * Parts needed: TRRS jack, TRRS breakout board, USB-C 90° flex connector, USB-C flex connector, 4x wire.
@@ -68,5 +70,7 @@ A case for the lily58, originally created by [kata0510](https://github.com/kata0
 * Parts needed: Bottom housing, IO Brace, 3x m2x4mm brass inserts, 3x m2x5mm Socket head screws, 4x stick on feet.
 1. Insert the 3 m2x4mm brass inserts in the openings show in the blue highlights in the image below.
 ![](https://github.com/SineScire/LilyCase/blob/c84eab74e7b79bf375c6481fb5333822dabd0113/Images/Insert%203x%20m2x4mm%20brass%20inserts%20into%20bottom%20housing.jpg)
-2. The TRRS breakout board and USB-C board can be placed in the bottom housing and held down with the brace using 3x m2x5mm socket head screws, note that the thicker part of the brace holds down the USB-C PCB.
+2. Place the top housing with the keyboard facing down above the bottom housing to have the shortest path for the cables to the bottom housing.
+3. The TRRS breakout board and USB-C board can be placed in the bottom housing and held down with the brace using 3x m2x5mm socket head screws, note that the thicker part of the brace holds down the USB-C PCB.
 ![](https://github.com/SineScire/LilyCase/blob/4bcbec4c719c17594ee39ae533747c1e9570fcb9/Images/IO.jpg)
+4. The top housing of the case can be placed on the bottom housing, make sure not to put too much tension on the cables. Use the 11x m3x5mm socket head bolts to assemble the case.
