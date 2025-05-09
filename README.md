@@ -1,12 +1,12 @@
  <p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-ND 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1" alt=""></a></p> 
 
-A case for the lily58, originally created by [kata0510](https://github.com/kata0510) with a suspended switchplate, made to use with the Lily58L created by [BenRoe](https://github.com/BenRoe).
+A case for the lily58 with a suspended switchplate. The Lily58 is originally created by [kata0510](https://github.com/kata0510), the case is made to use with the Lily58L created by [BenRoe](https://github.com/BenRoe).
 
 ![](https://github.com/SineScire/LilyCase/blob/67452ea44ff2f6d6c83ab36c8d1c95dc17c37ed3/Images/Angle%20view.jpg)
 
-## Parts to assemble the case
+## Parts to assemble the case for one side
 
-| Part | Quantity | Description | Photo |
+| Part | Quantity for one side | Description | Photo |
 | ---- | -------- | ----------- | --- |
 | Top housing | 1x | 3D Printed |
 | Bottom housing | 1x | 3D Printed |
@@ -24,13 +24,15 @@ A case for the lily58, originally created by [kata0510](https://github.com/kata0
 | Shrinkwrap | 3x | To tidy the cables for the TRRS plug. |
 | 90° USB-C Flex Connector | 1x | Connects to the PCB | ![](https://github.com/SineScire/LilyCase/blob/a0095cbd26be3239dec1c03cc9cdd155c50838e4/Images/90degree%20USB-C.jpg)
 | USB-C Flex Connector | 1x | Mounts to the Bottom housing for IO access | See TRRS Breakout board |
-| Flex cable | 1x | Connects the two USB-C Boards |
+| Ribbon cable | 1x | Connects the two USB-C Boards |
 | Stick on feet | 4x |
 | Lily58 PCB | 1x |
 | Soldering Iron | 1x | To insert the brass inserts into the case parts |
 | Multimeter | 1x | To check the continuity for soldering the TRRS cable |
 | Small metal object with a flat surface | 1x | Optional but useful, to align and straighten the brass insert after inserting it |
 | Tweezers to hold brass inserts | 1x |
+
+Because the switchplate is able to flex, this case requires two cables to be routed inside from the Lily58 PCB to the bottom housing where the USB-C port and TRRS port will be. This requires making a TRRS cable and ordering parts for a USB-C ribbon cable.
 
 ### Assembly
 
