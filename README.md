@@ -22,9 +22,9 @@ A case for the lily58 with a suspended switchplate. The Lily58 is originally cre
 | TRRS Breakout board | 2x | Mounts to the Bottom housing for IO access | ![](https://github.com/SineScire/LilyCase/blob/bd04925a0f7e573289788de1d8b8854aa9a3e55a/Images/USB-C%20and%20TRRS.jpg) |
 | Wire | 8x | Around 10cm of wire to connect the TRRS plug and breakout board |
 | Shrinkwrap | 2x | For the TRRS plug. |
-| 90° USB-C Ribbon Connector | 2x | Connects to the PCB | ![](https://github.com/SineScire/LilyCase/blob/a0095cbd26be3239dec1c03cc9cdd155c50838e4/Images/90degree%20USB-C.jpg)
-| USB-C Ribbon Connector | 2x | Mounts to the Bottom housing for IO access | See TRRS Breakout board |
-| Ribbon cable | 2x | Connects the two USB-C Boards |
+| 90° USB-C Ribbon Connector | 2x | Connects to the PCB. Part D2, can be ordered [here](https://www.aliexpress.com/item/1005003785689812.html?) | ![](https://github.com/SineScire/LilyCase/blob/a0095cbd26be3239dec1c03cc9cdd155c50838e4/Images/90degree%20USB-C.jpg)
+| USB-C Ribbon Connector | 2x | Mounts to the Bottom housing for IO access. Part D4, can be ordered [here](https://www.aliexpress.com/item/1005003785689812.html?) | See TRRS Breakout board |
+| Ribbon cable | 2x | Connects the two USB-C Boards. 10cm FFC, can be ordered [here](https://www.aliexpress.com/item/1005003785689812.html?) |
 | Stick on feet | 8x |
 | Lily58 PCB | 2x |
 | Soldering Iron | 1x | To insert the brass inserts into the case parts |
