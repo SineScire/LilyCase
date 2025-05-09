@@ -27,7 +27,7 @@ A case for the lily58 with a suspended switchplate. The Lily58 is originally cre
 | Ribbon cable | 2x | Connects the two USB-C Boards. 10cm FFC, can be ordered [here](https://www.aliexpress.com/item/1005003785689812.html?) |
 | Stick on feet | 8x |
 | Lily58 PCB | 2x |
-| Soldering Iron | 1x | To insert the brass inserts into the case parts |
+| Soldering equipment | 1x | To insert the brass inserts into the case parts and to solder to TRRS cables |
 | Multimeter | 1x | To check the continuity for soldering the TRRS cable |
 | Small metal object with a flat surface | 1x | Optional but useful, to align and straighten the brass insert after inserting it |
 | Tweezers to hold brass inserts | 1x |
