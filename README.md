@@ -4,35 +4,36 @@ A case for the lily58 with a suspended switchplate. The Lily58 is originally cre
 
 ![](https://github.com/SineScire/LilyCase/blob/67452ea44ff2f6d6c83ab36c8d1c95dc17c37ed3/Images/Angle%20view.jpg)
 
-## Parts to assemble the case for one side
+## BOM for two cases for a complete keyboard set.
 
 | Part | Quantity for one side | Description | Photo |
 | ---- | -------- | ----------- | --- |
-| Top housing | 1x | 3D Printed |
-| Bottom housing | 1x | 3D Printed |
-| Switchplate | 1x | 3D Printed |
-| IO Brace | 1x | 3D Printed, holds down the USB and TRRS breakout board down in the bottom housing | ![](https://github.com/SineScire/LilyCase/blob/bd04925a0f7e573289788de1d8b8854aa9a3e55a/Images/Brace.jpg) |
-| Washers | 5x | 3D Printed, for the screws connecting the switchplate to the PCB | ![](https://github.com/SineScire/LilyCase/blob/bd04925a0f7e573289788de1d8b8854aa9a3e55a/Images/Washer.jpg) |
-| m2x5mm Socket Head Screw | 13x | For the Switchplate, Top housing and IO Brace |
-| m3x5mm Socket Head Screw | 11x | Connects the Bottom housing to the Top housing |
-| m2x4mm Brass Insert | 13x | For the Switchplate, Top housing and Bottom housing |
-| m3x5mm Brass Insert | 11x | For the Top housing, to connect with Bottom housing |
-| Gasket foam | 3x | In the length of 20mm, 50mm and 70mm, the width of 8mm |
-| TRRS plug | 1x | Connects to the PCB |
-| TRRS Breakout board | 1x | Mounts to the Bottom housing for IO access | ![](https://github.com/SineScire/LilyCase/blob/bd04925a0f7e573289788de1d8b8854aa9a3e55a/Images/USB-C%20and%20TRRS.jpg) |
-| Wire | 4x | Around 10cm of wire to connect the TRRS plug and breakout board |
-| Shrinkwrap | 3x | To tidy the cables for the TRRS plug. |
-| 90° USB-C Flex Connector | 1x | Connects to the PCB | ![](https://github.com/SineScire/LilyCase/blob/a0095cbd26be3239dec1c03cc9cdd155c50838e4/Images/90degree%20USB-C.jpg)
-| USB-C Flex Connector | 1x | Mounts to the Bottom housing for IO access | See TRRS Breakout board |
-| Ribbon cable | 1x | Connects the two USB-C Boards |
-| Stick on feet | 4x |
-| Lily58 PCB | 1x |
+| Top housing | 2x | 3D Printed, one print needs to be mirrored |
+| Bottom housing | 2x | 3D Printed, one print needs to be mirrored |
+| Switchplate | 2x | 3D Printed, one print needs to be mirrored |
+| IO Brace | 2x | 3D Printed, holds down the USB and TRRS breakout board down in the bottom housing | ![](https://github.com/SineScire/LilyCase/blob/bd04925a0f7e573289788de1d8b8854aa9a3e55a/Images/Brace.jpg) |
+| Washers | 10x | 3D Printed, for the screws connecting the switchplate to the PCB | ![](https://github.com/SineScire/LilyCase/blob/bd04925a0f7e573289788de1d8b8854aa9a3e55a/Images/Washer.jpg) |
+| m2x5mm Socket Head Screw | 26x | For the Switchplate, Top housing and IO Brace |
+| m3x5mm Socket Head Screw | 22x | Connects the Bottom housing to the Top housing |
+| m2x4mm Brass Insert | 26x | For the Switchplate, Top housing and Bottom housing |
+| m3x5mm Brass Insert | 22x | For the Top housing, to connect with Bottom housing |
+| Gasket foam | 6x | In the length of 2x 20mm, 2x 50mm and 2x 70mm, the width of 8mm |
+| TRRS plug | 2x | Connects to the PCB |
+| TRRS Breakout board | 2x | Mounts to the Bottom housing for IO access | ![](https://github.com/SineScire/LilyCase/blob/bd04925a0f7e573289788de1d8b8854aa9a3e55a/Images/USB-C%20and%20TRRS.jpg) |
+| Wire | 8x | Around 10cm of wire to connect the TRRS plug and breakout board |
+| Shrinkwrap | 2x | For the TRRS plug. |
+| 90° USB-C Ribbon Connector | 2x | Connects to the PCB | ![](https://github.com/SineScire/LilyCase/blob/a0095cbd26be3239dec1c03cc9cdd155c50838e4/Images/90degree%20USB-C.jpg)
+| USB-C Ribbon Connector | 2x | Mounts to the Bottom housing for IO access | See TRRS Breakout board |
+| Ribbon cable | 2x | Connects the two USB-C Boards |
+| Stick on feet | 8x |
+| Lily58 PCB | 2x |
 | Soldering Iron | 1x | To insert the brass inserts into the case parts |
 | Multimeter | 1x | To check the continuity for soldering the TRRS cable |
 | Small metal object with a flat surface | 1x | Optional but useful, to align and straighten the brass insert after inserting it |
 | Tweezers to hold brass inserts | 1x |
 
 Because the switchplate is able to flex, this case requires two cables to be routed inside from the Lily58 PCB to the bottom housing where the USB-C port and TRRS port will be. This requires making a TRRS cable and ordering parts for a USB-C ribbon cable.
+The photos are showing the right hand side.
 
 ### Assembly
 
