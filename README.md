@@ -2,4 +2,6 @@
 
 A case for the lily58 with a suspended switchplate. The Lily58 is originally created by [kata0510](https://github.com/kata0510), the case is made to use with the Lily58L created by [BenRoe](https://github.com/BenRoe).
 
+The files and directories with the "old" suffix are from the original case design, where the IO for the PCB is rerouted to bottom case housing.
+
 ![](https://github.com/SineScire/LilyCase/blob/4a8946212f857d188d4f45ce229c128c383de94c/Images/Angled%20view.jpg)
