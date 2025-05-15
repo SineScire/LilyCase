@@ -19,7 +19,7 @@
 | Tweezers | 1x | For holding the threaded inserts |  |
 
 ## 1. Printing the parts
-* Suggested printing orientation for the parts, showing the left hand side case only
+* Suggested printing orientation for the parts, showing the left hand side case only.
 
 | Top housing | Bottom housing | Switchplate |
 | ----------- | -------------- | ----------- |
@@ -45,7 +45,7 @@
 ![](https://github.com/SineScire/LilyCase/blob/dcb36338be455814d602db1272a7a7df7541c255/Images/TopStep.jpg)
 
 ### Assembling the case
-* Parts needed: Assembled top housing, assembled switchplate/PCB, gaskets, twelve m3x6mm socket head screws
+* Parts needed: Assembled top housing, assembled switchplate/PCB, gaskets, twelve m3x6mm socket head screws.
 1. Slide the gaskets onto the lips of the switchplate as shown in the image below.
 ![](https://github.com/SineScire/LilyCase/blob/68da6306469c4966ca0865662cea4e44f796549c/Images/GasketStep.jpg)
 2. Place the switchplate on the bottom housing and place the top housing on top, sandwiching the gaskets and switchplate in between. The switchplate and gaskets should align them selves and the lip of the top housing should sit around the edge of the bottom housing.
