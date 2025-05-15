@@ -19,7 +19,7 @@
 | Tweezers | 1x | For holding the threaded inserts |  |
 
 ## 1. Printing the parts
-* Suggested printing orientation for the parts, showing the left hand side case only.
+* Suggested printing orientation for the parts, showing the right hand side case only.
 
 | Top housing | Bottom housing | Switchplate |
 | ----------- | -------------- | ----------- |
