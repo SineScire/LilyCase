@@ -9,14 +9,19 @@
 | Tag plate | 2x | 3D printed |  |
 | Washer | 10x | 3D printed part to fasten the PCB to the switchplate |  |
 | Gasket | 10x | 3D printed part from a flexible type of filament such as TPU |  |
+| Template | 1x | 3D printed part for a cutting guide to cut the preferred palm rest material |  |
 | m2x4mm threaded insert | 10x | Brass inserts for the switchplate |  |
 | m3x5mm threaded insert | 12x | Brass inserts for the top housing |  |
 | m2x5mm socket head screw | 10x | To mount the PCB to the switch plate |  |
 | m3x6mm socket head screw | 12x | To mount the bottom to the top housing |  |
 | Stick on feet | 8x | 15mm diameter, 2mm height |  |
+| Palm rest material | 2x | cork/neopreme or material which ever you prefer, minimum size 12x8cm and 4mm thick |  |
 | Assembled Lily58 PCB | 2x | Used when inerting the brass inserts |  |
 | Soldering iron | 1x | For inserting the threaded inserts |  |
 | Tweezers | 1x | For holding the threaded inserts |  |
+| Precision knife | 1x | For cutting the palm rest material |  |
+| Glue | 1x | To glue in the magnets for the tag plate |  |
+| Double sided tape | 1x | To stick the palm rest material to the top housing |  |
 
 ## 1. Printing the parts
 * Suggested printing orientation for the parts, showing the right hand side case only.
@@ -40,9 +45,10 @@
 4. Assemble the switchplate/PCB further with your choise of switches and keycaps.
 
 ### Preparing the top housing
-* Parts needed: Top housing, m3x5mm threaded inserts, soldering iron.
+* Parts needed: Top housing, m3x5mm threaded inserts, soldering iron, palm rest material, tamplet, precision knife, double sided tape.
 1. Place the top housing facing down and using a soldering iron, insert the six m3x5mm threaded inserts into the top housing shown at the blue highlighted spots in the image below.
 ![](https://github.com/SineScire/LilyCase/blob/dcb36338be455814d602db1272a7a7df7541c255/Images/TopStep.jpg)
+2. Use the template to cut the palm rest material with the precision knife, the cut out palm rest can be adhered using double sided tape to the top housing or a different preferred method.
 
 ### Assembling the case
 * Parts needed: Assembled top housing, assembled switchplate/PCB, gaskets, twelve m3x6mm socket head screws.
