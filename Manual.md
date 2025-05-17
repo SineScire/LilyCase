@@ -20,11 +20,12 @@
 | Soldering iron | 1x | For inserting the threaded inserts |  |
 | Tweezers | 1x | For holding the threaded inserts |  |
 | Precision knife | 1x | For cutting the palm rest material |  |
-| Glue | 1x | To glue in the magnets for the tag plate |  |
-| Double sided tape | 1x | To stick the palm rest material to the top housing |  |
+| Double sided tape | 1x | To stick the palm rest material to the top housing and to adhere the tagplate |  |
+| Optional glue | 1x | To glue in the magnets for the tag plate |  |
+| Optional 6x2mm magnets | 8x | For magnet attachment for the tag plate |  |
 
 ## 1. Printing the parts
-* Suggested printing orientation for the parts, showing the right hand side case only.
+* Suggested printing orientation for the parts with supports enabled, showing the right hand side case only.
 
 | Top housing | Bottom housing | Switchplate |
 | ----------- | -------------- | ----------- |
@@ -49,6 +50,7 @@
 1. Place the top housing facing down and using a soldering iron, insert the six m3x5mm threaded inserts into the top housing shown at the blue highlighted spots in the image below.
 ![](https://github.com/SineScire/LilyCase/blob/dcb36338be455814d602db1272a7a7df7541c255/Images/TopStep.jpg)
 2. Use the template to cut the palm rest material with the precision knife, the cut out palm rest can be adhered using double sided tape to the top housing or a different preferred method.
+3. The tag plate can also be adhered in its place using double sided tape, or four 6x2mm magnets can be glued in place if so desired.
 
 ### Assembling the case
 * Parts needed: Assembled top housing, assembled switchplate/PCB, gaskets, twelve m3x6mm socket head screws.
