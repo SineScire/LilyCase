@@ -15,14 +15,12 @@
 | m2x5mm socket head screw | 10x | To mount the PCB to the switch plate |  |
 | m3x6mm socket head screw | 12x | To mount the bottom to the top housing |  |
 | Stick on feet | 8x | 15mm diameter, 2mm height |  |
-| Palm rest material | 2x | cork/neopreme or material which ever you prefer, minimum size 12x8cm and 4mm thick |  |
+| Palm rest material | 2x | cork/neopreme or a different prefered material, minimum size 12x8cm and 4mm thick |  |
 | Assembled Lily58 PCB | 2x | Used when inerting the brass inserts |  |
 | Soldering iron | 1x | For inserting the threaded inserts |  |
 | Tweezers | 1x | For holding the threaded inserts |  |
 | Precision knife | 1x | For cutting the palm rest material |  |
-| Double sided tape | 1x | To stick the palm rest material to the top housing and to adhere the tagplate |  |
-| Optional glue | 1x | To glue in the magnets for the tag plate |  |
-| Optional 6x2mm magnets | 8x | For magnet attachment for the tag plate |  |
+| Double sided tape | 1x | To adhere the palm rest material to the top housing and to adhere the tagplate |  |
 
 ## 1. Printing the parts
 * Suggested printing orientation for the parts with supports enabled, showing the right hand side case only.
