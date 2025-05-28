@@ -9,7 +9,7 @@
 | Tag plate | 2x | 3D printed |  |
 | Washer | 10x | 3D printed part to fasten the PCB to the switchplate |  |
 | Gasket | 10x | 3D printed part from a flexible type of filament such as TPU |  |
-| Template | 1x | 3D printed part for a cutting guide to cut the preferred palm rest material |  |
+| Wristrest plate | 2x | 3D printed part for the magnet version |  |
 | m2x4mm threaded insert | 10x | Brass inserts for the switchplate |  |
 | m3x5mm threaded insert | 14x | Brass inserts for the top housing |  |
 | m2x5mm socket head screw | 10x | To mount the PCB to the switch plate |  |
