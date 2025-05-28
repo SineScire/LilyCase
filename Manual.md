@@ -11,9 +11,9 @@
 | Gasket | 10x | 3D printed part from a flexible type of filament such as TPU |  |
 | Template | 1x | 3D printed part for a cutting guide to cut the preferred palm rest material |  |
 | m2x4mm threaded insert | 10x | Brass inserts for the switchplate |  |
-| m3x5mm threaded insert | 12x | Brass inserts for the top housing |  |
+| m3x5mm threaded insert | 14x | Brass inserts for the top housing |  |
 | m2x5mm socket head screw | 10x | To mount the PCB to the switch plate |  |
-| m3x6mm socket head screw | 12x | To mount the bottom to the top housing |  |
+| m3x6mm socket head screw | 14x | To mount the bottom to the top housing |  |
 | Stick on feet | 8x | 15mm diameter, 2mm height |  |
 | Palm rest material | 2x | cork/neopreme or a different prefered material, minimum size 12x8cm and 4mm thick |  |
 | Assembled Lily58 PCB | 2x | Used when inerting the brass inserts |  |
@@ -21,6 +21,7 @@
 | Tweezers | 1x | For holding the threaded inserts |  |
 | Precision knife | 1x | For cutting the palm rest material |  |
 | Double sided tape | 1x | To adhere the palm rest material to the top housing and to adhere the tagplate |  |
+| Glue | 1x | To glue the magnets for the magnet version |  |
 
 ## 1. Printing the parts
 * Suggested printing orientation for the parts with supports enabled, showing the right hand side case only.
