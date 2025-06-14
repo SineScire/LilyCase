@@ -57,4 +57,5 @@
 1. Slide the gaskets onto the lips of the switchplate as shown in the image below.
 ![](https://github.com/SineScire/LilyCase/blob/68da6306469c4966ca0865662cea4e44f796549c/Images/GasketStep.jpg)
 2. Place the switchplate on the bottom housing and place the top housing on top, sandwiching the gaskets and switchplate in between. The switchplate and gaskets should align them selves and the lip of the top housing should sit around the edge of the bottom housing.
-3. Use six m3x6mm socket head screws to fasten the case together, completing one side of the case!
+3. Use six m3x6mm socket head screws to fasten the case together, completing one side of the case! Repeat these steps for the other side of the case.
+![](https://github.com/SineScire/LilyCase/blob/d1cf197d1ff97fe16d70d02db67b4f1f3e4dc85e/Images/Angled%20view.jpg)
