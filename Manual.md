@@ -14,8 +14,8 @@
 | m3x5mm threaded insert | 14x | Brass inserts for the top housing |  |
 | m2x5mm socket head screw | 10x | To mount the PCB to the switch plate |  |
 | m3x6mm socket head screw | 14x | To mount the bottom to the top housing |  |
-| Stick on feet | 8x | 15mm diameter, 2mm height |  |
-| Palm rest material | 2x | cork/neopreme or a different prefered material, minimum size 12x8cm and 4mm thick |  |
+| Stick on rubber feet | 8x | 15mm diameter, 2mm height |  |
+| Wristrest material | 2x | cork/neopreme or a different prefered material, minimum size 12x8cm and 4mm thick |  |
 | Assembled Lily58 PCB | 2x | Used when inerting the brass inserts |  |
 | Soldering iron | 1x | For inserting the threaded inserts |  |
 | Tweezers | 1x | For holding the threaded inserts |  |
@@ -24,6 +24,7 @@
 | Glue | 1x | To glue the magnets for the magnet version |  |
 
 ## 1. Printing the parts
+1. Before printing the parts, decide if you want to adhere the wristrest directly to the top housing with double sided tape, or use the magnetized version. The files named 'TopHousingMagnets' use magnets to keep the wristrest in place, the files named 'TopHousing2mmWristrest' uses a 2mm deep wristrest cutout to adhere your preferred wristrest material in.
 * Suggested printing orientation for the parts with supports enabled, showing the right hand side case only.
 
 | Top housing | Bottom housing | Switchplate |
