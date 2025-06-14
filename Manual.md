@@ -33,7 +33,7 @@
 
 | Washer | Tag plate | Gasket |
 | ------ | --------- | ------ |
-| ![](https://github.com/SineScire/LilyCase/blob/3987ca211656328c9b99d7630aa20d4c3b9fe84b/Images/DirectionWasher.jpg) | ![](https://github.com/SineScire/LilyCase/blob/3987ca211656328c9b99d7630aa20d4c3b9fe84b/Images/DirectionTag.jpg) | ![](https://github.com/SineScire/LilyCase/blob/1b5013751b5a978d91ab553716577ddf7e4eeeb9/Images/DirectionGasket.jpg) |
+| ![](https://github.com/SineScire/LilyCase/blob/3987ca211656328c9b99d7630aa20d4c3b9fe84b/Images/DirectionWasher.jpg) | ![](https://github.com/SineScire/LilyCase/blob/3987ca211656328c9b99d7630aa20d4c3b9fe84b/Images/DirectionTag.jpg) | ![](https://github.com/SineScire/LilyCase/blob/fc2b428d50170e91b331ed0401d69a18027f9cbc/Images/DirectionGasketMedium.png) |
 
 ### Preparing the switchplate
 * Parts needed: Switchplate, Washers, m2x4mm threaded inserts, m2x5mm socket head screws, soldering iron.
