@@ -24,7 +24,7 @@
 | Glue | 1x | To glue the magnets for the magnet version |  |
 
 ## 1. Printing the parts
-1. Before printing the parts, decide if you want to adhere the wristrest directly to the top housing with double sided tape, or use the magnetized version. The files named 'TopHousingMagnets' use magnets to keep the wristrest in place, the files named 'TopHousing2mmWristrest' uses a 2mm deep wristrest cutout to adhere your preferred wristrest material in.
+1. Before printing the parts, decide if you want to adhere the wristrest directly to the top housing with double sided tape, or use the magnetized version. The files named 'TopHousingMagnets' use magnets to keep the wristrest in place, the files named 'TopHousing2mmWristrest' uses a 2mm deep wristrest cutout to adhere your preferred wristrest material in with double sided tape.
 * Suggested printing orientation for the parts with supports enabled, showing the right hand side case only.
 
 | Top housing | Bottom housing | Switchplate |
