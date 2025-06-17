@@ -12,4 +12,6 @@ And mulitple versions of the gaskets:
 * Medium: Switchplate flexes with the press of multiple keys
 * Hard: Switchplate hardly flexes with the press of multiple keys
 
+Check out the manual [here](https://github.com/SineScire/LilyCase/blob/a8cb191af96765f0c5e2880e67829a860b818092/Manual.md)
+
 ![](https://github.com/SineScire/LilyCase/blob/4a8946212f857d188d4f45ce229c128c383de94c/Images/Angled%20view.jpg)
