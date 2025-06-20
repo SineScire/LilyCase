@@ -7,7 +7,7 @@ There are multiple versions of the case
 * Without magnets: the wrist rest has to be attached with double sided tape or glue, magnet holes for the tag plate are still present.
 * The files and directories with the "old" suffix are from the original case design, where the IO for the PCB is rerouted to bottom case housing.
 
-And mulitple versions of the gaskets:
+And multiple versions of the gaskets:
 * Soft: Switchplate flexes with the press of a single key
 * Medium: Switchplate flexes with the press of multiple keys
 * Hard: Switchplate hardly flexes with the press of multiple keys
