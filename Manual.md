@@ -25,6 +25,7 @@
 
 ## 1. Printing the parts
 1. Before printing the parts, decide if you want to adhere the wristrest directly to the top housing with double sided tape, or use the magnetized version. The files named 'TopHousingMagnets' use magnets to keep the wristrest in place, the files named 'TopHousing2mmWristrest' uses a 2mm deep wristrest cutout to adhere your preferred wristrest material in with double sided tape.
+2. The gaskets are printed with a flexible type filament, they were made using a 95A hardness filament. 
 * Suggested printing orientation for the parts with supports enabled, showing the right hand side case only.
 
 | Top housing | Bottom housing | Switchplate |
